@@ -1,0 +1,9 @@
+f(0) = a
+f(1) = b
+f(2) = ba
+f(3) = bab
+f(4) = babba
+f(5) = babbabab
+f(6) = babbababbabba
+f(7) = babbababbabbababbabab
+f(8) = babbababbabbababbababbabbababbabba
